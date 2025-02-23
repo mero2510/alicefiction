@@ -2,7 +2,7 @@ body {
     background-image: url(img/cg/cg1.jpg);
     background-size: 110%;
     background-attachment: fixed;
-    background-size: auto
+    background-size: cover;
 ;
 }
 nav {
