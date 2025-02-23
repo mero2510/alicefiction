@@ -2,7 +2,8 @@ body {
     background-image: url(img/cg/cg1.jpg);
     background-size: 110%;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: auto
+;
 }
 nav {
     background-color: #f8f0bd;
